@@ -23,3 +23,9 @@ In this tutorial we will explore how to use Recurrent Neural Networks, a techniq
 * Remembering the past
 * Avoiding vanishing gradients
 * Memory cells
+
+# Slides
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/pfBbL7jBDAwcr6" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+[[web]](http://www.bgoncalves.com) [[twitter]](https://twitter.com/bgoncalves) [[github]](http://github.com/bmtgoncalves/) [[LinkedIn]](https://www.linkedin.com/in/bmtgoncalves/)
